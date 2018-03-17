@@ -1,9 +1,7 @@
 # Spanish Colors Memory Game
 This memory game was a timed, morning challenge. The idea was to build a 10 card memory game, that allows a user to select 2 cards and check if they match. If the cards match, they stay flipped. If not, they flip back over. The memory game is over when all cards are matched and flipped back.
 
-**Demo the game here:** https://karina001.github.io/spanishColorsMemoryGame/
-
-![alt tag]()
+![alt tag](https://github.com/karina001/speechRecognitionApp/blob/master/Screen%20Shot%202018-03-16%20at%2011.35.04%20PM.png)
 
 ## How It's Made:
 
