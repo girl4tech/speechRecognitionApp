@@ -8,7 +8,7 @@ For this app I leveraged the Speech Recognition global variable, that lives on t
 **Tech used:** HTML, CSS, JavaScript, local host
 
 ## Lessons Learned:
-In this project I learned a lot about different Javascript data structures and how to apply data structure best practices in order to program more efficiently. This app was a fun project that was inspired by Wes Bos. 
+In this project I learned a lot about different Javascript data structures and how to apply data structure best practices in order to program more efficiently.
 
 ## Examples:
 Take a look at other examples that I have in my own portfolio:
