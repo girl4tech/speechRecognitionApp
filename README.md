@@ -22,4 +22,4 @@ Take a look at other examples that I have in my own portfolio:
 ## Installation:
 1. Clone this repo
 2. Install with npm install
-3. Run server with node server.js.
+3. Run server with node server.js
